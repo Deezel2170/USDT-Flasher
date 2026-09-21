@@ -1,5 +1,8 @@
 {
   "buildCommand": "echo 'No build step required'",
   "outputDirectory": ".",
-  "framework": null
+  "framework": null,
+  "analytics": {
+    "enabled": true
+  }
 }
