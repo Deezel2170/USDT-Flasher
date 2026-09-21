@@ -1,0 +1,16 @@
+{
+  "name": "usdt-flasher",
+  "version": "1.0.0",
+  "description": "USDT Flasher application",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'No build step required'",
+    "dev": "npx serve ."
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.1.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
